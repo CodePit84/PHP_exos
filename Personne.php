@@ -25,6 +25,7 @@ class Personne {
     public function __destruct()
     {
         exit;
+        // Je ne sais pas quoi mettre à part exit pour être certain de détruire l'objet
     }
 }
 
