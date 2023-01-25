@@ -1,2 +1,2 @@
 # PHP_exos
-Exos Guillaume
+Exos pour Guillaume
